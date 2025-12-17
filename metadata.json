@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LOFO.PK",
+  "description": "Centralized Lost and Found platform connecting people to recover lost items through intelligent matching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
